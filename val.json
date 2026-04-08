@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/valoryck/val/releases/download/v0.1.1/val_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/valoryck/val/releases/download/v0.1.2/val_0.1.2_windows_amd64.zip",
             "bin": [
                 "val.exe"
             ],
-            "hash": "655821efdb82c8771f16d1f469a761af35ac429ef9bdb24b84637aff040badb8"
+            "hash": "7fe28d97f8d9ab24d609646c3507b262af67a14fd6ad2646c2400d11b910ab98"
         },
         "arm64": {
-            "url": "https://github.com/valoryck/val/releases/download/v0.1.1/val_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/valoryck/val/releases/download/v0.1.2/val_0.1.2_windows_arm64.zip",
             "bin": [
                 "val.exe"
             ],
-            "hash": "b9976899d781bec5206e9df0959bb5bb7b6b5a77c5ecaebcebad614eb9385fa2"
+            "hash": "88aad6789941b65b08f1012ead09b3f5d4be9708845316780a3ba7f55f462fbd"
         }
     },
     "homepage": "https://valoryck.com",
